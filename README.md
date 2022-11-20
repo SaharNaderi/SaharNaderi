@@ -1,5 +1,3 @@
-🌱 I’m currently learning ...
-
 let coffee;
 
 Coffee = new coffee();
